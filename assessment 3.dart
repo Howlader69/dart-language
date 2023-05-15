@@ -1,8 +1,8 @@
 void main() {
-  Car car1 = Car("Toyota", "Camry", 2010);
+  Car car1 = Car("Lamborghini", "Veneno", 2013);
   car1.drive(876.6);
 
-  Car car2 = Car("Honda", "Accord", 2015);
+  Car car2 = Car("Rolls-Royce", "Phantom", 2013);
   car2.drive(878.7);
 
   Car car3 = Car("Ford", "Mustang", 2020);
